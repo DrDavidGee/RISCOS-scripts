@@ -26,3 +26,7 @@ it will tell you whether any pages have issues, and if so how many there are (us
 
 	check-pdf -h
 
+This scipt requires **pypdf** to be installed. This is a pure Python library so it works fine on RISC OS.
+
+	pip38 install pypdf
+
